@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+header {
+  margin-bottom: 20px;
+}
+ 
+ main ul {
+   list-style: none;
+ }
+ .Main-content {
+   display: flex;
+   flex-direction: column;
+   align-content: left;
+   align-items: left;
+   text-align: left;
+   margin-bottom: 50px;
+ }
+
+ 
+ .Employment >ul > li {
+   color: indigo
+ } 
